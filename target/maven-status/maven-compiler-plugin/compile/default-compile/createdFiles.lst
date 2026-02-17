@@ -1,0 +1,15 @@
+com\fanout\transformers\MqTransformer.class
+com\fanout\transformers\GrpcTransformer.class
+com\fanout\transformers\RestTransformer.class
+com\fanout\engine\FileIngestor.class
+com\fanout\transformers\DbTransformer.class
+com\fanout\model\Record.class
+com\fanout\sinks\MessageQueueSink.class
+com\fanout\transformers\Transformer.class
+com\fanout\utils\ConfigLoader.class
+com\fanout\engine\Orchestrator.class
+com\fanout\transformers\TransformerFactory.class
+com\fanout\sinks\RestApiSink.class
+com\fanout\sinks\Sink.class
+com\fanout\sinks\WideColumnDbSink.class
+com\fanout\sinks\GrpcSink.class

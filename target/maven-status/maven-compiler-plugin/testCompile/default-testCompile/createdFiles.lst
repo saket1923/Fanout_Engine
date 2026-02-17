@@ -1,0 +1,5 @@
+com\fanout\engine\package-info.class
+com\fanout\model\package-info.class
+com\fanout\transformers\package-info.class
+com\fanout\sinks\package-info.class
+com\fanout\utils\package-info.class

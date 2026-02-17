@@ -1,0 +1,12 @@
+inputFile: "src/main/resources/sample.csv"
+sinks:
+  rest:
+    rateLimitRps: 50
+  grpc:
+    rateLimitRps: 50
+  mq:
+    rateLimitRps: 100
+  db:
+    rateLimitRps: 1000
+threadPool:
+  size: 8
